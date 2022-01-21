@@ -1,7 +1,4 @@
-👋 Hi, I’m @JimmyHRO
-
-I studied computer science quite some time ago. Tried to keep up with IT things while doing some non computer science work for live. Did some small coding - small python and java tools.
-Now gonna take things more seriously. 
+That's me.
 
 
 <!---
